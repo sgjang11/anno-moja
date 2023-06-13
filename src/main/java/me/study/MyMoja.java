@@ -1,5 +1,5 @@
 package me.study;
 
-@Magic
+//@Magic
 public class MyMoja {
 }
